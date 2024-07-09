@@ -1,12 +1,5 @@
 <<<<<<< HEAD
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# React_Machine-RoundCode
->>>>>>> d6135268ef347d7beed81030431d3593148e599c
+Inside component folder all the machine round coding is solved by me.
+1) otp question : how to fill the otp in UI in react.
+2)
