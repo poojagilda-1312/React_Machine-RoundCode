@@ -4,3 +4,38 @@ input{
   padding: 0.5rem;
   margin: 0.5rem;
 }
+.page-btn{
+  background-color: black;
+  padding: 1rem;
+  color: azure;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.page-btn:hover{
+  transform:scale(0.8 ) ;
+}
+.pagination-container{
+  display: flex;
+  width: 550px;
+  margin: 15%;
+  padding: 100px;
+  justify-content: space-evenly;
+}
+.post-container{
+  width : 550px;
+  height: 170px;
+  display: flex;
+  justify-content: space-evenly;
+
+  
+}
+img{
+  height: 150px;
+  width: 100px;
+}
+.active{
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
